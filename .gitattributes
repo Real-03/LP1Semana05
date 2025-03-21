@@ -1,0 +1,2 @@
+tux.png filter=lfs diff=lfs merge=lfs -text
+tux.jpg filter=lfs diff=lfs merge=lfs -text
